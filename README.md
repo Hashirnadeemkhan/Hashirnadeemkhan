@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Hashir Nadeem Khan 👋
 
-<!--
-**Hashirnadeemkhan/Hashirnadeemkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Generative AI Engineer| 🌐 Web Developer | 💻 Open Source Contributor
 
-Here are some ideas to get you started:
+I specialize in **cloud-applied Generative AI**, working on cutting-edge projects in Python, machine learning, and deep learning. I build solutions like **custom RAG-based chatbots**, AI agents, and assistants for businesses and education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💼 What I Do
+- AI & ML Development: Expertise in building intelligent systems with Python.
+- Web Development: Proficient in Next.js, React.js,
+- API Development: Skilled in FastAPI and REST API design.
+- Freelancing: Delivered multiple successful web development projects.
+
+---
+
+  🛠️ Skills
+- Programming Languages: Python, JavaScript, 
+  Frameworks: LangChain, Semantic Kernel, FastAPI, 
+- Databases: MySQL, PostgreSQL
+- **Frontend**: HTML, CSS, Tailwind CSS, Svelte, Three.js
+- Tools: Docker, Firebase, Git, Vercel
+
+---
+
+
+### 🌍 **Find Me Online**
+- 💼 [LinkedIn](www.linkedin.com/in/hashir-khan-b90b60280)
+- 🌐 [Portfolio](https://personal-portfolio-seven-sigma-67.vercel.app/)
