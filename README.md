@@ -2,7 +2,7 @@
 
 🎓 Generative AI Engineer| 🌐 Web Developer | 💻 Open Source Contributor
 
-I specialize in **cloud-applied Generative AI**, working on cutting-edge projects in Python, machine learning, and deep learning. I build solutions like **custom RAG-based chatbots**, AI agents, and assistants for businesses and education.
+I am specializing in cloud-applied Generative AI, working on cutting-edge projects in Python, machine learning, . Inwill build solutions like custom RAG-based chatbots, AI agents, and assistants for businesses and education.
 
 ---
 
