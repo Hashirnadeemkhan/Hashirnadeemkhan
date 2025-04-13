@@ -26,4 +26,4 @@ I am specializing in cloud-applied Generative AI, working on cutting-edge projec
 
 ### 🌍 **Find Me Online**
 - 💼 [LinkedIn](www.linkedin.com/in/hashir-khan-b90b60280)
-- 🌐 [Portfolio](https://personal-portfolio-seven-sigma-67.vercel.app/)
+- 🌐 [Portfolio](https://personal-portfolio-h8ig.vercel.app/)
