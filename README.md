@@ -1,29 +1,35 @@
 # Hi there, I'm Hashir Nadeem Khan 👋
 
-🎓 Generative AI Engineer| 🌐 Web Developer | 💻 Open Source Contributor
+🎓 Aspiring Agentic AI Developer | 🌐 Full Stack Web Developer | 💻 Open Source Contributor
 
-I am specializing in cloud-applied Generative AI, working on cutting-edge projects in Python, machine learning, . Inwill build solutions like custom RAG-based chatbots, AI agents, and assistants for businesses and education.
-
----
-
-💼 What I Do
-- AI & ML Development: Expertise in building intelligent systems with Python.
-- Web Development: Proficient in Next.js, React.js,
-- API Development: Skilled in FastAPI and REST API design.
-- Freelancing: Delivered multiple successful web development projects.
+I'm currently diving deep into **Agentic AI development**, building intelligent applications using tools like OpenAI, LangChain, Chainlit, and more. I aim to create end-to-end AI systems and agents that can reason, act, and assist across various domains including business and education.
 
 ---
 
-  🛠️ Skills
-- Programming Languages: Python, JavaScript, 
-  Frameworks: LangChain, Semantic Kernel, FastAPI, 
-- Databases: MySQL, PostgreSQL
-- **Frontend**: HTML, CSS, Tailwind CSS, Svelte, Three.js
-- Tools: Docker, Firebase, Git, Vercel
+## 💼 What I Do
+
+- **Agentic AI Development**: Learning to design AI agents using frameworks like OpenAI SDKs, LangChain, and Chainlit.
+- **Web Development**: Build responsive web apps using Next.js, React.js, and Svelte.
+- **API Development**: Develop scalable APIs with FastAPI, integrating them with AI services.
+- **Freelancing**: Delivered multiple successful client projects focused on frontend, backend, and automation.
 
 ---
 
+## 🛠️ Skills
 
-### 🌍 **Find Me Online**
-- 💼 [LinkedIn](www.linkedin.com/in/hashir-khan-b90b60280)
+- **Programming Languages**: Python, JavaScript  
+- **Agentic AI Tools**: OpenAI (Function Calling, Assistants API), LangChain, Chainlit, Streamlit  
+- **Databases**: MongoDB, Firebase, Sanity  
+- **Frontend**: HTML, CSS, Tailwind CSS, React.js, Svelte, Three.js  
+- **Backend & Dev Tools**: FastAPI, Docker, Git, Vercel  
+
+---
+
+## 🌍 Find Me Online
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hashir-khan-b90b60280)  
 - 🌐 [Portfolio](https://personal-portfolio-h8ig.vercel.app/)
+
+---
+
+### 🚀 Let’s create smart, useful, and autonomous digital experiences!
