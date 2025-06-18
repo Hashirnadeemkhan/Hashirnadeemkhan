@@ -19,7 +19,7 @@ I'm currently diving deep into **Agentic AI development**, building intelligent 
 
 - **Programming Languages**: Python, JavaScript  
 - **Agentic AI Tools**: OpenAI (Function Calling, Assistants API), LangChain, Chainlit, Streamlit  
-- **Databases**: MongoDB, Firebase, Sanity  
+- **Databases**: Firebase, Sanity  
 - **Frontend**: HTML, CSS, Tailwind CSS, React.js,Nextjs 
 - **Backend & Dev Tools**: FastAPI, Docker, Git, Vercel  
 
