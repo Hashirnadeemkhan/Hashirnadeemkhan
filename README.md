@@ -8,7 +8,7 @@ I'm currently diving deep into **Agentic AI development**, building intelligent 
 
 ## 💼 What I Do
 
-- **Agentic AI Development**: Learning to design AI agents using frameworks like OpenAI SDKs, LangChain, and Chainlit.
+- **Agentic AI Development**: Learning to design AI agents using frameworks like OpenAI SDKs,Streamlit and Chainlit.
 - **Web Development**: Build responsive web apps using Next.js, React.js, and MongoDb/posgreSQL.
 - **API Development**: Develop scalable APIs with FastAPI, integrating them with AI services.
 
@@ -18,7 +18,7 @@ I'm currently diving deep into **Agentic AI development**, building intelligent 
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, JavaScript  
-- **Agentic AI Tools**: OpenAI (Function Calling, Assistants API), LangChain, Chainlit, Streamlit  
+- **Agentic AI Tools**: OpenAI (Function Calling, Assistants API), Chainlit, Streamlit  
 - **Databases**: Firebase, Sanity  
 - **Frontend**: HTML, CSS, Tailwind CSS, React.js,Nextjs 
 - **Backend & Dev Tools**: FastAPI, Docker, Git, Vercel  
