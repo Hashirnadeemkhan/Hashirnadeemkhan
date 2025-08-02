@@ -17,7 +17,7 @@ I'm currently diving deep into **Agentic AI development**, building intelligent 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, JavaScript  
+- **Programming Languages**: Python, JavaScript/Typescript  
 - **Agentic AI Tools**: OpenAI (Function Calling, Assistants API), Chainlit, Streamlit  
 - **Databases**: Firebase, Sanity  
 - **Frontend**: HTML, CSS, Tailwind CSS, React.js,Nextjs 
