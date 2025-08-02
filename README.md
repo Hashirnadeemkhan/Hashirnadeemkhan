@@ -2,14 +2,14 @@
 
 🎓 Aspiring Agentic AI Developer | 🌐 Full Stack Web Developer | 💻 Open Source Contributor
 
-I'm currently diving deep into **Agentic AI development**, building intelligent applications using tools like OpenAI, LangChain, Chainlit, and more. I aim to create end-to-end AI systems and agents that can reason, act, and assist across various domains including business and education.
+I'm currently diving deep into **Agentic AI development**, building intelligent applications using tools like OpenAI, Chainlit,Streamlit and more. I aim to create end-to-end AI systems and agents that can reason, act, and assist across various domains including business and education.
 
 ---
 
 ## 💼 What I Do
 
 - **Agentic AI Development**: Learning to design AI agents using frameworks like OpenAI SDKs, LangChain, and Chainlit.
-- **Web Development**: Build responsive web apps using Next.js, React.js, and Svelte.
+- **Web Development**: Build responsive web apps using Next.js, React.js, and MongoDb/posgreSQL.
 - **API Development**: Develop scalable APIs with FastAPI, integrating them with AI services.
 - **Freelancing**: Delivered multiple successful client projects focused on frontend, backend, and automation.
 
